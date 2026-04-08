@@ -12,7 +12,7 @@ tools and reminders for recurring aeon reporting needs
 ### Data import to a visual editor (e.g. Excel)
 - open a new file
 - File > Import
-- > UTF-8, comma-delimited
+- UTF-8, comma-delimited
    - change data type to Text on identifiers (barcodes, mmsids etc.)
    - change data type to Date on date columns
  
