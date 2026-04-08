@@ -18,7 +18,8 @@ tools and reminders for recurring aeon reporting needs
  
 ### Matching on identifiers
 - use identifiers as recorded in the originating systems
-- in addition, split Aeon columns on `;`, `,`, ` `, `(`, `/`, `_` (if needed for cid's)
+- create a helper column concatenating CallNumber and Sublocation
+- as appropriate, split Aeon columns on `;`, `,`, ` `, `(`, `/`, `_` (if needed for cid's)
 - dedupe the input list
 - normalize (downcase; TRIM leading and trailing spaces) before attempting a match
 
