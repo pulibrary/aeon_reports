@@ -19,6 +19,7 @@ tools and reminders for recurring aeon reporting needs
 ### Matching on identifiers
 - use identifiers as recorded in the originating systems
 - in addition, split Aeon columns on `;`, `,`, ` `, `(`, `/`, `_` (if needed for cid's)
+- dedupe the input list
 
 ### Match points
 Which identifiers map to which Aeon field has changed over time. Therefore, attempt to match all identifiers against any column that (may) contain an identifier. Possible match points are:
