@@ -8,6 +8,7 @@ tools and reminders for recurring aeon reporting needs
     - (\n)(^",)
     - \n\s{2,}
     - (\n)([^"])
+- QA: check for presence of "," in Transaction ID
 
 ### Data import to a visual editor (e.g. Excel)
 - open a new file
